@@ -1,5 +1,4 @@
-# Interface for blind reading of a nodule from radiologists
-
+# Demographics Table Creation
 ![Alt text](./demographics-table.svg)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
